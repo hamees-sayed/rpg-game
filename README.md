@@ -1,3 +1,3 @@
 # RPG Game
 
-[Live Site Preview](beatthemonster.netlify.app)
+[Live Site Preview](https://beatthemonster.netlify.app/)
